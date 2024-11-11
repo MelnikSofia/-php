@@ -1,8 +1,0 @@
-<?php
-function str_lengh($stroka)
-{
-	$len = strlen($stroka);
-	echo "Длина строки $stroka равна $len";
-}
-$stroka = "lalalala";
-str_lengh($stroka);
